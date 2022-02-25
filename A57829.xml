@@ -1,0 +1,277 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mirmah, or, The deceitful witness a prophecy of Solomon, now first and seasonably discovered, wherein the deceitful witnesses of Rome are made manifest to all, and our Protestant witnesses are justified, praised, and defended, chiefly the late happy discoverers of the Romish plots &amp; deceits : being a sermon preached Novemb. 5 on Prov. 14.25 : a true witness delivereth souls, but a deceitful witness speaketh lies, or, as the original signifies, the lord of Rome speaketh lies / by William Ramsay ...</title>
+            <author>Ramsay, William, B.D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57829</idno>
+            <idno type="STC">Wing R219</idno>
+            <idno type="STC">ESTC R13073</idno>
+            <idno type="EEBO-CITATION">12033581</idno>
+            <idno type="OCLC">ocm 12033581</idno>
+            <idno type="VID">52818</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57829)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52818)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 575:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mirmah, or, The deceitful witness a prophecy of Solomon, now first and seasonably discovered, wherein the deceitful witnesses of Rome are made manifest to all, and our Protestant witnesses are justified, praised, and defended, chiefly the late happy discoverers of the Romish plots &amp; deceits : being a sermon preached Novemb. 5 on Prov. 14.25 : a true witness delivereth souls, but a deceitful witness speaketh lies, or, as the original signifies, the lord of Rome speaketh lies / by William Ramsay ...</title>
+                  <author>Ramsay, William, B.D.</author>
+                  <author>Ramsay, William, fl. 1680. Mirmah, Maromah, Maroum.</author>
+               </titleStmt>
+               <extent>[6], 25 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benj. Billingsley ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Appears in his Mirmah, Maromah, Maroum. London, 1680.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Proverbs XIV, 25 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52818:1"/>
+            <pb facs="tcp:52818:1" rendition="simple:additions"/>
+            <p>MIRMAH, OR, THE Deceitful Witneſs.</p>
+            <p>A PROPHECY of <hi>SOLOMON</hi> Now firſt and ſeaſonably diſcovered; wherein the Deceitful Witneſſes of <hi>Rome</hi> are made manifeſt to all; And our <hi>Proteſtant</hi> Witneſſes are Juſtified, Praiſed, and Defended; chiefly the late happy Diſcoverers of the <hi>Romiſh Plots &amp; Deceits.</hi>
+            </p>
+            <p>By <hi>WILLIAM RAMSAY,</hi> B. D. Lecturer in <hi>Iſtleworth,</hi> and Chaplain to the Right Honourable <hi>Thomas</hi> Earl of <hi>Oſſory.</hi>
+            </p>
+            <p>BEING A SERMON Preached <hi>Novemb.</hi> 5. on PROV. 14.25.</p>
+            <p>
+               <hi>A true Witneſs d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vereth Souls: but a Deceitful Witneſs ſpeaketh lies.</hi> Or, as the Original ſignifies, <hi>The Lord of Rome ſpeaketh lies.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Benj. Billingſley</hi> at the Printing-Preſs within the South-weſt <hi>Piazza</hi> of the <hi>Royal Exchange</hi> in <hi>Cornhill,</hi> 1679.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:52818:2"/>
+            <pb facs="tcp:52818:2"/>
+            <head>TO <hi>JOHN RAMSAY</hi> of <hi>Bewick</hi> in <hi>Northumberland,</hi> 
+               <abbr>Eſq</abbr> AND TO Major <hi>ROBERT RAMSAY</hi> His Brother, Health and Felicity.</head>
+            <opener>
+               <salute>Dear Brothers,</salute>
+            </opener>
+            <p>THis Dedication becomes both you and me, being deſign'd for a publique en<g ref="char:EOLhyphen"/>gagement of ſuch mutual affection, as be<g ref="char:EOLhyphen"/>comes three only Reliques of a moſt ancient Family, never yet ſtain'd with any ſpot of Diſhonour or Diſloyalty. The one of you God has made Steward of the Eſtate of the Family; which though greatly dimi<g ref="char:EOLhyphen"/>niſht by the death of our Great unkle, <hi>John Ramſay</hi> late Earl of <hi>Holder<g ref="char:EOLhyphen"/>neſs,</hi> &amp;c. without Iſſue, and too ſoon after by the death of his Brother and Heir
+<pb facs="tcp:52818:3"/>
+Sir <hi>George Ramſay</hi> our Grandfather, who left my Father too young to manage Affairs; and by the laſt Kings Warrs, in which my Father rais'd a Troop of Horſe at his own ſole Charge, and ſuffer'd much; and by the death of our Eldeſt Brother before the Kings Return, and of our Dear Father quickly after; yet the God of our Family is the ſame ſtill, and can raiſe it again in due time: Only be we thankfull for his preſent great favours; and ſerve we him in the advantageous ſtations where<g ref="char:EOLhyphen"/>in he hath placed us. The other of you, God has renown'd with Military Skill and Action at home and abroad, as he did many of our Family before, and lately two great unkles, Collonel <hi>Ramſay</hi> and Major General <hi>Ramſay</hi> under <hi>Guſtavus Adolphus.</hi> I am placed between you, as in Age, ſo in Station; a Steward and a Souldier too, but in Spiritual matters; wherefore let me now be as a mediant term
+<pb facs="tcp:52818:3"/>
+of union to joyn ye in one. I think I am the firſt of our Family of this Function, at leaſt in <hi>England.</hi> Wherefore, as the Function it ſelf is Honourable and Di<g ref="char:EOLhyphen"/>vine, give me leave, to the Honour of my Choice, to eſſay ſomething in Vindica<g ref="char:EOLhyphen"/>tion of the Truth; I may ſay, in Vindi<g ref="char:EOLhyphen"/>cation of our Church and State. For the Truth, which I here aſſert, hath receiv'd ſuch ſolemn Atteſtations from King and Parliament, from all manner of Teſtimony, that to deny or oppoſe it, were to give the Lye to Church and State, and to affront the Throne as well as the Pulpit. I par<g ref="char:EOLhyphen"/>ticularly ſtand engaged to bear this Teſti<g ref="char:EOLhyphen"/>mony, being more intimately acquainted with the Principles and Practices of the Church of <hi>Rome,</hi> by occaſion of my Fo<g ref="char:EOLhyphen"/>rain Travel for twelve years among them. Now this Plot is juſtified by thoſe Prin<g ref="char:EOLhyphen"/>ciples, and highly prais'd, defended and rewarded by that Church: Therefore thoſe
+<pb facs="tcp:52818:4"/>
+Principles are manifeſtly condemn'd by this Plot, and that Church to be deteſted for it, to be denyed, and utterly forſaken by all that love the Truth and the Goſpel of the Peace of Jeſus, to whom you are daily commended by the moſt earneſt and hearty Prayers of</p>
+            <closer>
+               <signed>
+                  <hi>Your truly loving Brother and Servant in Chriſt Jeſus,</hi> W. Ramſay.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:52818:4"/>
+            <head>A SERMON PREACHED <hi>Novemb.</hi> V. 1679.</head>
+            <epigraph>
+               <bibl>
+                  <hi>PROV. xiv. 25.</hi>
+               </bibl>
+               <q>A true Witneſs delivereth Souls: but a deceitfull Witneſs ſpeaketh Lies.</q>
+            </epigraph>
+            <p>THis is a Prophecy, as well as a Pro<g ref="char:EOLhyphen"/>verb; and <hi>Solomon</hi> was a Prophet as well as a Proverbialiſt; as appears in many other places.</p>
+            <p>We ſhall firſt conſider it as a Proverb. So it contains two Propoſitions; The firſt, the Cha<g ref="char:EOLhyphen"/>racter of a True Witneſs: <hi>A true Witneſs deliver<g ref="char:EOLhyphen"/>eth Souls.</hi> The ſecond, the Character of a De<g ref="char:EOLhyphen"/>ceitful Witneſs; <hi>But a Deceitful Witneſs ſpeaketh lies.</hi> Both Characters are very compendious, and very diſtinctive, as Characters ought to be.</p>
+            <p>The Character of a true Witneſs conſiſts in two things; the one expreſs'd, the other im<g ref="char:EOLhyphen"/>mediately
+<pb n="2" facs="tcp:52818:5"/>
+implyed. The thing expreſt is the Motive, End, and Effect of his Teſtimony, <hi>To deliver Souls. A True Witneſs delivereth Souls. Mat<g ref="char:EOLhyphen"/>ſiel nephaſhoth,</hi> that is, reſcueth others from Op<g ref="char:EOLhyphen"/>preſſion or deſtruction: and this is the motive and end of his Teſtimony; not to hurt or op<g ref="char:EOLhyphen"/>preſs any, or to condemn or to deſtroy the guilty: but to deliver the guiltleſs, to main<g ref="char:EOLhyphen"/>tain the Truth, to defend Innocence, and to deliver the Innocent from thoſe that would oppreſs them. A True Witneſs accuſeth a Mur<g ref="char:EOLhyphen"/>derer, bears evidence againſt him, and the Mur<g ref="char:EOLhyphen"/>derer is juſtly ſentenced and condemned to death: But the end of the Teſtimony of the true Witneſs, is not the death or deſtruction of the Murderer, but the preſervation of men, that the evil of Murder may be taken away. This then is an eſſential Character of a True Witneſs, the end of his teſtimony is to deliver Souls; <hi>A True Witneſs delivereth Souls.</hi>
+            </p>
+            <p>Whence follows a Second thing, an indivi<g ref="char:EOLhyphen"/>dual Property of a True Witneſs. The end of his Teſtimony being Truth and Innocence, the preſervation and deliverance of Souls; He will never ſtain his teſtimony with a Lye, nor harm his own Soul, or wrong his Neighbours Cauſe with an untruth. This is evidently included in the firſt, as alſo in the term of a True Wit<g ref="char:EOLhyphen"/>neſs;
+<pb n="3" facs="tcp:52818:5"/>
+eſpecially as the Hebrews term it, <hi>Hed<g ref="char:EOLhyphen"/>emeth,</hi> that is, <hi>A Witneſs of Truth.</hi> If then he be caught in a Lye in his Teſtimony, he cannot have the credit of a true Witneſs. For that's a ſure Proverb which went a little before the Text, <hi>Prov.</hi> 14.5. <hi>A faithful Witneſs will not lye.</hi> The end of his Teſtimony is not his own pro<g ref="char:EOLhyphen"/>fit, much leſs anothers harm. The Guilty man deſerveth death; yet a true Witneſs accuſeth him not that he may dye: but as <hi>Hed-emeth,</hi> as <hi>a Witneſs of Truth,</hi> he ſpeaketh the truth for truths ſake; and accuſeth the guilty to deliver the Innocent. So this Character is eſſential, <hi>A true Witneſs delivereth Souls;</hi> that is, the end and effect of a Witneſs of Truth is this, to deliver them that are Innocent.</p>
+            <p>From this, The Character of a Deceitfull Witneſs is plain, conſiſting in the two oppoſite points. The end of a Deceitful Witneſs is not to deliver Souls, but to draw Souls into harm<g ref="char:punc">▪</g> and his means to that end is always a lye; yea, he attains not his end eaſily without many lyes. Therefore his Character is this, <hi>A deceitful Wit<g ref="char:EOLhyphen"/>neſs speaketh lies: Japhiac cheſabim,</hi> that is, <hi>breatheth</hi> lyes, as he breatheth the air; or uttereth lies eaſily, or rather of neceſſity, even as a man breatheth: and ſo the word is rendred, <hi>v.</hi> 5.
+<pb n="4" facs="tcp:52818:6"/>
+               <hi>A falſe Witneſs will utter lies:</hi> Which is to be un<g ref="char:EOLhyphen"/>derſtood too; that a falſe Witneſs cannot be long hid: for his own lies ſhall diſcover him. So were the two Elders, the falſe Accuſers of <hi>Suſanna,</hi> diſcovered by <hi>Daniel.</hi> And God the Great lover of Truth will not ſuffer the truth to be long oppreſt by the lyes of men. There<g ref="char:EOLhyphen"/>fore <hi>Solomon</hi> tells us, <hi>Prov.</hi> 19.5. <hi>A falſe Witneſs ſhall not be unpuniſhed, and he that speaketh lies ſhall not eſcape;</hi> and repeats it again <hi>v.</hi> 9. <hi>A falſe Wit<g ref="char:EOLhyphen"/>neſs ſhall not be unpuniſhed, and he that speaketh lies ſhall periſh.</hi>
+            </p>
+            <p>Thus much of the Text, as it is a Proverb, and contains the Characters of a True and of a Deceitful Witneſs. We ſhall now diſcover in it a double combination of Prophecies. Firſt, A Prophecy of Chriſt, the Great Witneſs of Truth on one hand; and of Antichriſt, the Great Deceitful Witneſs on the other. Second<g ref="char:EOLhyphen"/>ly, A Prophecy of true Proteſtant Witneſſes, on one hand; and of Deceitfull Romiſh Wit<g ref="char:EOLhyphen"/>neſſes on the other.</p>
+            <p>Firſt, We have here a diſtinct Prophecy of Chriſt the Great Witneſs of Truth; as we ga<g ref="char:EOLhyphen"/>ther clearly from the Property of the terms in themſelves, and from conference of them with other Scriptures. The terms in themſelves are
+<pb n="5" facs="tcp:52818:6"/>
+proper to Chriſt. He only is properly, <hi>Hed-emeth matſiel nephaſhoth, The Witneſs of Truth that delivereth Souls,</hi> whom the Spirit knew when <hi>Solomon</hi> thus wrote. Every other true Witneſs is term'd <hi>Hed-emunim,</hi> as <hi>v.</hi> 5. that is, <hi>a Witneſs of truths,</hi> or of true things, a faithful Witneſs; but Chriſt is <hi>Hed-emeth, The Witneſs of Truth,</hi> or <hi>Truth it ſelf,</hi> or the Prime-Witneſs, or the Witneſs of all Truth. This is likewiſe the ſtyle of the Prophets and of the Apoſtles, <hi>Iſa.</hi> 55.4. <hi>Behold, I have given him for a Witneſs to the Peo<g ref="char:EOLhyphen"/>ple,</hi> &amp;c. Rev. 1.5. <hi>Jeſus Chriſt the faithful Wit<g ref="char:EOLhyphen"/>neſs.</hi> Rev. 3.14. <hi>The faithful and true Witneſs.</hi> Likewiſe Jeſus Chriſt is properly he <hi>that deli<g ref="char:EOLhyphen"/>vereth Souls:</hi> for he came to that purpoſe, and therefore is he called <hi>Jeſus.</hi> And in the ſtyle of the Prophets too, this term of <hi>Matſiel</hi> is appro<g ref="char:EOLhyphen"/>priated to God. As <hi>Dan.</hi> 6.27. when God had deliver'd <hi>Daniel</hi> from the Lions, God is there ſtyled, <hi>Meſheſib ou Matſiel, He that delivereth and reſcueth,</hi> that is, Souls from deſtruction, as <hi>Da<g ref="char:EOLhyphen"/>niel</hi> from the Lions. Then this Proverb of <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> is a diſtinct Prophecy of Chriſt, <hi>A True Wit<g ref="char:EOLhyphen"/>neſs delivereth Souls;</hi> that is, The great witneſs of Truth, Chriſt the Truth it ſelf, ſhall come; and ſhall deliver the Souls that believe on him.</p>
+            <p>From this it is eaſie by the Rule of Oppoſites
+<pb n="6" facs="tcp:52818:7"/>
+to interpret the ſecond part of the Proverb, which is a Prophecy of Antichriſt the great Deceitful Witneſs. And a very remarkable Pro<g ref="char:EOLhyphen"/>phecy. For the Spirit of God in <hi>Solomon,</hi> not only here foretells the obvious ſignification of the words, that there ſhall be an Antichriſt, a great Witneſs of Deceit, who ſhall ſeduce Souls with Lies, in oppoſition to <hi>Hed-emeth,</hi> that great Witneſs of Truth, who ſaveth Souls by Truth. But <hi>Solomon</hi> further by the words (if he, that readeth, underſtandeth) points out that Antichriſt who he is; and by the name he gives that <hi>Deceitful Witneſs</hi> in the Text, tells us diſtinctly, that it is <hi>the Lord of Rome,</hi> or <hi>the Great one of Rome.</hi> For the Word of the Holy Ghoſt, the Hebrew word, which the Vulgar Tranſlation renders, <hi>a Deceitful Witneſs,</hi> is in the Maſorethan contraction <hi>Mirmah,</hi> in Original latitude <hi>Maromah,</hi> in Radical expreſſi<g ref="char:EOLhyphen"/>on <hi>Maroum,</hi> and ſignifies every way, literally and grammatically, <hi>the Lord of Rome,</hi> or, <hi>the great one of Rome.</hi> This, though I think never obſerv'd before; yet to him that will inſpect the Hebrew Tongue, will be as clear as <hi>Co<g ref="char:EOLhyphen"/>lumbus</hi> his Land to the firſt Diſcoverers. I have writ a peculiar Diſcourſe which makes this fully plain, and intelligible, and certain, and ſhews
+<pb n="7" facs="tcp:52818:7"/>
+the Myſterious Number of the Beaſt to be un<g ref="char:EOLhyphen"/>deniably proper to this Name in the Text; which Diſcourſe ſhall follow this in the Preſs: At preſent I ſhall only take occaſion to give you a paſſing view of the thing it ſelf.</p>
+            <p>The thing aſſerted is this. Theſe words of <hi>Solomon, A Deceitful Witneſs ſpeaketh lies,</hi> are to be render'd from the Hebrew, <hi>The Lord of Rome ſpeaketh lies.</hi> The proof depends wholly upon the underſtanding of the Hebrew word; and we know that in difficult or obſcure places, eſpecially in Prophecies, and moſt peculiarly in ſuch as concern the Name or Diſcovery of An<g ref="char:EOLhyphen"/>tichriſt, it is ſaid, <hi>Let him that readeth underſtand;</hi> and, <hi>Here is wiſdom. Let him that hath under<g ref="char:EOLhyphen"/>ſtanding count the Number,</hi> &amp;c. So that we muſt not expect the thing to be obvious; but ra<g ref="char:EOLhyphen"/>ther a thing hid a long time; but when once diſcover'd, very clear to all. So is this preſent Word of the Text, in the Hebrew <hi>Mirmah,</hi> or <hi>Maromah,</hi> or <hi>Maroum.</hi> This plainly, literally, and grammatically, ſignifies <hi>the Lord of Rome.</hi> For <hi>Mar</hi> in Hebrew is a Lord, and often us'd for <hi>Baal</hi> or for <hi>Adon,</hi> ſays <hi>Buxtorfius;</hi> as <hi>Dan.</hi> 2.47. <hi>Mare-malchin, A Lord of Kings.</hi> 1 Cor. 16.22. <hi>Maranatha: The Lord cometh.</hi> And <hi>Romah</hi> or <hi>Roum</hi> in Hebrew is the ſame with <hi>Romë</hi> in Greek,
+<pb n="8" facs="tcp:52818:8"/>
+               <hi>Roma</hi> in <hi>Latine,</hi> and <hi>Rome</hi> in Engliſh. Then <hi>Maromah</hi> plainly, literally, and grammatically ſignifies <hi>the Lord of Rome.</hi> Therefore the Text is to be render'd thus: <hi>The Witneſs of truth,</hi> which is Chriſt, <hi>delivereth Souls.</hi> But <hi>Maromah, The Lord of Rome ſpeaketh lies.</hi> Both words and ſence agreeing thus, I can ſee no difficulty in the thing: yet I ſhall add another fair Ety<g ref="char:EOLhyphen"/>mology of the Word, and but another can be given.</p>
+            <p>The Word, however contracted or dilated, <hi>Mirmah, Maromah,</hi> or <hi>Maroum,</hi> has in it the force and ſignification of three radical words, <hi>Marah, Roum,</hi> and <hi>Ramah:</hi> From the ſecond the Name of <hi>Rome</hi> is Originally derived, and <hi>Romulus</hi> from <hi>Rome;</hi> not <hi>Rome</hi> from <hi>Romulus.</hi> The firſt ſignifies <hi>to rebell;</hi> the ſecond <hi>to be lofty in pride;</hi> the third, <hi>to ſupplant</hi> or <hi>to deceive.</hi> Now if <hi>Re<g ref="char:EOLhyphen"/>bellion, Pride,</hi> and <hi>Deceit,</hi> be not the propereſt characters both of the City, and of the Lord of <hi>Rome,</hi> let all judge that know <hi>Rome;</hi> cer<g ref="char:EOLhyphen"/>tainly characters, by which the Spirit of God has diſtinguiſht that City from all others. And we know that <hi>Rome,</hi> with the Lord-Popes thereof, has openly rebell'd againſt the Kings and Emperours to which it was ſubject, and has exalted it ſelf in pride above their heads,
+<pb n="9" facs="tcp:52818:8"/>
+and has deceiv'd the Nations of the Chriſtian World with <hi>all</hi> manner of <hi>deceivableneſs,</hi> as the Apoſtle ſpeaks, 2 <hi>Theſſ.</hi> 2.10. Then the Lord of <hi>Rome</hi> is that <hi>Mirmah, Maromah,</hi> or <hi>Maroum,</hi> of which <hi>Solomon</hi> propheſies, <hi>A Deceitful Witneſs ſpeaketh lies.</hi> That is, <hi>Maromah</hi> ſhall ſeduce and deſtroy Souls with lies; as <hi>Hed-emeth</hi> ſhall ſave and deliver Souls through the truth.</p>
+            <p>From this reſults a ſecondary Prophecy, of true Proteſtant Witneſſes, on one hand; and of deceitfull <hi>Romiſh</hi> Witneſſes, on the other. For, as the Lord of <hi>Rome</hi> is found here to be the great deceitful Witneſs oppoſite to Chriſt; ſo the ſubordinate <hi>Romiſh</hi> Witneſſes muſt needs be thoſe deceitful Witneſſes, which are oppo<g ref="char:EOLhyphen"/>ſite to the ſubordinate VVitneſſes of Chriſt; which as they are called Chriſtians from Chriſt, ſo are they called <hi>Proteſtants</hi> from their oppo<g ref="char:EOLhyphen"/>ſition and proteſtation againſt the VVitneſſes of <hi>Rome.</hi> Thus the Text will import this. <hi>A True Witneſs,</hi> that is, <hi>a Proteſtant Witneſs, deliver<g ref="char:EOLhyphen"/>eth Souls, but a Mirmah, a Romiſh Witneſs ſpeaketh lies.</hi>
+            </p>
+            <p>This Prophecy might be made good through<g ref="char:EOLhyphen"/>out all the points of Controverſie between us and them, which concern Souls: But I ſhall confine my Diſcourſe to two moſt eminent
+<pb n="10" facs="tcp:52818:9"/>
+cauſes of Fact, that is, the <hi>Powder-plot</hi> of <hi>Ann.</hi> 1605; and the Plot of 78. or of the laſt year, if it may not rather be term'd a Plot of pre<g ref="char:EOLhyphen"/>ſent being. My buſineſs will be this: To prove unto ye, that in both Plots, no leſs in this than in that, the Prophecy of <hi>Solomon</hi> is fulfilled; That the Proteſtant VVitneſs is the true VVitneſs, and delivereth Souls: but <hi>Mir<g ref="char:EOLhyphen"/>mah,</hi> the Romiſh VVitneſs is <hi>the deceitful Witneſs,</hi> and <hi>ſpeaketh lies.</hi>
+            </p>
+            <p>Firſt, That our Proteſtant VVitneſs was the true VVitneſs, as touching the Powder-plot; VVe have three unqueſtionable Arguments: 1. The Unanimous Declaration of the whole Kingdom by Publick Vote in Parliament, by vertue whereof this Fifth of <hi>November</hi> has been obſerv'd now Seventy four years. 2. Matter of Fact; The Plot was not only contriv'd, but carried ſo far on, that there wanted nothing but the Sitting of the Parliament, which ſcarce a day before was prevented by an obſcure Letter which gave occaſion to ſearch under the Parliament-Houſe, and the Powder in ſuffi<g ref="char:EOLhyphen"/>cient quantity was found ready laid, Man and Match ready, nothing wanting to blow up King and both Houſes of Parliament the firſt moment of their Meeting. 3. The Confeſſion
+<pb n="11" facs="tcp:52818:9"/>
+of ſome eminent Plotters who gloried in the fact, though the reſt utterly denyed it, or ex<g ref="char:EOLhyphen"/>tenuated to nothing the guilt of the Roman Church: and of late they ſeem ready to con<g ref="char:EOLhyphen"/>feſs that Plot, that they may better be believ'd in their obſtinate denial of this.</p>
+            <p>But Secondly, I ſay of this Plot of 78. We have no leſs, yea, we have greater Evidence of this, than ever <hi>England</hi> had of that. 1. As touch<g ref="char:EOLhyphen"/>ing the firſt kind of Argument.</p>
+            <p>That of the Gunpowder-Treaſon was de<g ref="char:EOLhyphen"/>clar'd by the Vote of One Parliament, which was ſufficient: but this by ſeveral Votes of ſeveral Parliaments, <hi>Nemine contradicente.</hi> And by publick Edict all the Churches of <hi>England</hi> kept ſolemn the 11<hi rend="sup">th.</hi> day of <hi>April</hi> laſt, and I doubt not but will have a Memorial as perpetual as that of <hi>November</hi> 5<hi rend="sup">th.</hi>
+            </p>
+            <p n="2">2. As for matter of Fact, we have more real evidence of Fact in this, than was in the <hi>Powder-plot.</hi> For, though the Powder, Man, and Match were ready; yet no Execution was done, not a hair of any mans head ſinged, nor did the ſmell of Fire paſs on any man: But in this Plot, moſt fearful Execution has been done. The chief of our Cityes, and the chief Emporium of <hi>Europe,</hi> turn'd to Aſhes, with the
+<pb n="12" facs="tcp:52818:10"/>
+moſt dreadfull combuſtion that the Fire-works of Hell and <hi>Rome</hi> could effect. Great Confla<g ref="char:EOLhyphen"/>grations of our beſt Burroughs, and of many other moſt conſiderable, and ſome re-built, pla<g ref="char:EOLhyphen"/>ces. Yea, this Plot has drawn the Sword too, to a dreadful Execution; to the moſt horrid Murder of the moſt conſiderable and worthy Magiſtrate of the Royal City and County. In whoſe Blood we may read aforehand the bloody Sentence which ſhall be pronounced againſt us, if Papiſts by Plot, Policy, or Power, can ever be Maſters over us.</p>
+            <p>In the Gunpowder-treaſon the deſign was diſcover'd by way of Riddle, only in one ob<g ref="char:EOLhyphen"/>ſcure Letter no man knew whence: but in this Plot we read their horrid Deſigns at large, in many Letters, packets of Letters, <hi>Colemans, Harcourts,</hi> and ſeveral others.</p>
+            <p>In the <hi>Powder-plot</hi> a few obſcure Actors were diſcover'd: but in this not a few, nor ob<g ref="char:EOLhyphen"/>ſcure; whereof ſeveral have been tryed with exceſs of Clemency, and found guilty by the faireſt Evidence. Many yet expect a Tryal, of whom we can ſay nothing: but this is cer<g ref="char:EOLhyphen"/>tain, much more matter of Fact is already prov'd in this Plot, than ever was prov'd in the Gun<g ref="char:EOLhyphen"/>powder-treaſon.</p>
+            <p>
+               <pb n="13" facs="tcp:52818:10"/>As to the third kind of Argument, the Con<g ref="char:EOLhyphen"/>feſſion of the Guilty. If we take not things ſuperficially, we ſhall find more conſiderable Confeſſions of the Papiſts, and of the Plotters themſelves in this Plot, than was in the Pow<g ref="char:EOLhyphen"/>der-treaſon. For, 1. In the Powder-treaſon we find but One, and him for a ſhort time too, that in abhorrence of that Plot (which was evident before) came and made diſcovery of the Complices, and of their deſigns and pro<g ref="char:EOLhyphen"/>ceedings. But in this Plot we have at leaſt ſix conſiderable perſons, who were for ſome years active among the Plotters, and privy to all or moſt of their deſigns, and theſe men, in a Conſcionable dread and abhorrency of the helliſh plot, have diſcover'd it, to the full ſa<g ref="char:EOLhyphen"/>tisfaction of King and Kingdom, as appears by many publick Declarations. That we may truly ſay, to the Papiſts and plotters, We judge and condemn ye from your own mouths: your ſelves are your own Witneſſes.</p>
+            <p n="2">2. As for thoſe executed Plotters, who at their death and Execution denyed the Fact, and with moſt fearful Execrations profeſſed their Innocence: if we weigh their words well, which are but words; we will find them to contain a Confeſſion moſt ſuitable to them<g ref="char:EOLhyphen"/>ſelves,
+<pb n="14" facs="tcp:52818:11"/>
+and more convincing to us, than if they had confeſſed in plain terms, as ſome of the Powder-plotters did. For, 1. The conſtant Form that they us'd in their Proteſtations, did not deny the real thing, which is the plot; but they denyed that which we mean by the plot; that is, they denyed all deſign to mur<g ref="char:EOLhyphen"/>der the King, or to ſubvert the Kingdom, or by any rebellious way to alter Religion. For in plain Engliſh, according to their principles, without Equivocation, they deny our King to be King, or that his is the Kingdom, or that to Kill him is Murder, or that to raiſe an Ar<g ref="char:EOLhyphen"/>my againſt him is Rebellion, or that to bring in Popery is to ſubvert the Kingdom or Church: But on the contrary, they are ready to maintain to death, and to profeſs in flames, that the Pope has the Right of this Kingdom, and can give it to whom he pleaſeth; and that <hi>Charles Stuart</hi> is an Heretick, and no King; and (which is an horrour to ſpeak) that it is no Murder, but a moſt Godly and Heroick Act to ſtab, ſhoot, or poyſon him. Where<g ref="char:EOLhyphen"/>fore, although they deſign'd all theſe things moſt earneſtly, yet this was not to plot againſt Church or State, but to defend both. There<g ref="char:EOLhyphen"/>fore, they dyed not as guilty of the leaſt Act
+<pb n="15" facs="tcp:52818:11"/>
+or Thought againſt King, Church or State; but as the true Subjects and zealous Inſtru<g ref="char:EOLhyphen"/>ments of both, and ſo they commended their Souls into the hands of God, expecting a Crown of Martyrdom in Heaven, and the Wor<g ref="char:EOLhyphen"/>ſhip of Martyrs on Earth. And, as for ſome extern Acts, of <hi>meeting, conſulting, ſubſcribing,</hi> &amp;c. they were not bound to give their Enemies advantage by Acknowledging ſuch things; but rather utterly to Deny them all, for the advantage of ſo good a Cauſe, and for the glory of the holy Church. Thus, I ſay, that very Form of Denyal, which the dying plotters uſed, is a fair Confeſſion ſuitable to themſelves, and more convincing to us (eſpe<g ref="char:EOLhyphen"/>cially of the guilt of that Church) than if they had confeſſed the fact in plain terms, as ſome Powder-plotters did. And I have yet further reaſon to ſay ſo.</p>
+            <p>For in the <hi>Powder-plot,</hi> thoſe that confeſs'd it, confeſs'd it to glory in it. Not one Prieſt con<g ref="char:EOLhyphen"/>feſs'd it to repent of it. Which is more won<g ref="char:EOLhyphen"/>derfull than our preſent caſe. They dyed glo<g ref="char:EOLhyphen"/>rying openly in that horrid Plot, as one of them boaſted, that he had wrought under ground in his Shirt till he ſweat. But now in this plot, the eyes of the Nation are ſo open'd,
+<pb n="16" facs="tcp:52818:12"/>
+and all diſcern ſo clearly the horrour of ſuch Facts, that the moſt impudent Devils of Hell could not openly glory in ſuch things. The <hi>Jeſuits</hi> then and Romiſh Plotters had good rea<g ref="char:EOLhyphen"/>ſon to change their Council ſince the <hi>Powder-plot,</hi> and to preſcribe to their Martyrs another Form of Confeſſion to be us'd at their Mar<g ref="char:EOLhyphen"/>tyrdoms: and that they did ſo, is to me a certain thing. Indeed the Form they us'd was very ſubtilly contrived, but is not wonderful at all to them that are acquainted with their methods of Equivocation; which is an Art of no ſmall Circle, and teacheth how to equivo<g ref="char:EOLhyphen"/>cate moſt, when they moſt proteſt againſt it; as the Liar never lies more, than when he ſwears he lyes not at all. And what is Equi<g ref="char:EOLhyphen"/>vocation but the moſt deceitful Art of Lying? proper to theſe deceitful Witneſſes.</p>
+            <p>Yet I ſay this; That holding the Principles of the Church of <hi>Rome</hi> to be true, as theſe men certainly held, even at their death; they might proteſt themſelves to be innocent from all man<g ref="char:EOLhyphen"/>ner of plotting or acting againſt the King or Kingdom, without any Equivocation at all. For without all Equivocation, this is certainly true in their principles, that the Pope has the Right of the Kingdom of <hi>England,</hi> and he that acts
+<pb n="17" facs="tcp:52818:12"/>
+for the Pope, cannot act againſt the Kingdom: And I dare ſay, that for this very principle, there are hundreds of Prieſts ready to dye, and would expect the Worſhip and Crowns of Mar<g ref="char:EOLhyphen"/>tyrs ſhould they dye ſo. For among them, he that dyes for the Cauſe of the Pope, is a more glorious Martyr than he that dyes for the bare Cauſe of Chriſt. So <hi>Anſelm</hi> and <hi>Becket,</hi> thoſe Rebels, are as glorious Saints as any in the Ro<g ref="char:EOLhyphen"/>miſh Kalendar; and <hi>Beckets</hi> Feaſt is <hi>primae Claſſis,</hi> equal to Chriſts; but the Feaſts of the Apoſtles are <hi>ſecundae Claſſis,</hi> a Form below.</p>
+            <p>I ſay then, thoſe that dyed for this Plot, made more Confeſſion than thoſe of the <hi>Pow<g ref="char:EOLhyphen"/>der-plot.</hi> For thoſe of the <hi>Powder-plot</hi> made but one Confeſſion of the Fact, glorying openly in it. But theſe have confeſt both Fact and Crime; for by a ſubtle artificial Form of Juſti<g ref="char:EOLhyphen"/>fication they made a Confeſſion of the thing: And alſo, by not daring to boaſt in it openly, as their Brethren had done before, they made a Confeſſion of the Crime; and of the ſhame<g ref="char:EOLhyphen"/>full horrour of it. And certainly the horrour of the Fact, and publick ſhame, was the only reaſon, why theſe new kind of Martyrs, Mar<g ref="char:EOLhyphen"/>tyrs of <hi>Maromah,</hi> made no more open Confeſſi<g ref="char:EOLhyphen"/>on. And I verily believe, if <hi>England</hi> do its part,
+<pb n="18" facs="tcp:52818:13"/>
+to make this Romiſh plot evident to the world, it will prove ſufficient to make <hi>Rome</hi> and her Religion ſtink, that no King or people in the World ſhall endure it.</p>
+            <p>Thus we have all the Evidence we can re<g ref="char:EOLhyphen"/>quire concerning theſe horrid plots of <hi>Rome.</hi> And this plot of 78. has no leſs, yea much more Evidence than that of the <hi>Powder-treaſon,</hi> and greater Evidence cannot reaſonably be de<g ref="char:EOLhyphen"/>manded: yet greater Evidence I doubt not but a ſhort time will produce. But we have pro<g ref="char:EOLhyphen"/>duced enough to our purpoſe, to ſhew, that according to <hi>Solomons</hi> Prophecy, the Proteſtant Witneſſes are true Witneſſes, but <hi>Maromah</hi>'s Wit<g ref="char:EOLhyphen"/>neſſes deceitfull.</p>
+            <p>I need not ſay much more to explain the Epithete of the Prophecy: That the Proteſtant Witneſs <hi>delivereth Souls;</hi> but <hi>Maromah</hi>'s Witneſs <hi>ſpeaketh lies.</hi> For it's plain, our Witneſſes, God be bleſs'd, have deliver'd our Souls, even the Soul of our King, and of the beſt of his peo<g ref="char:EOLhyphen"/>ple, from moſt fearfull deſtruction. And in this late Plot, our Witneſs has deliver'd us, not from one way, but from many wayes of de<g ref="char:EOLhyphen"/>ſtruction. For the Plotters had prepared all the Inſtruments of Death that Hell could pro<g ref="char:EOLhyphen"/>duce; Fire and Sword, Jeſuit-powder and Balls,
+<pb n="19" facs="tcp:52818:13"/>
+and all the new <hi>Ignatian</hi> Inventions: Nay, Poyſon and Dagger too, even for the King; Armies at home, Armies from abroad. They had gather'd men of all Profeſſions, and al<g ref="char:EOLhyphen"/>moſt of all Nations, to carry on the work. We cannot now inſtance ſo much, as future times may. But this we can ſay, <hi>Engliſhmen, Iriſhmen, Scotchmen, Frenchmen,</hi> and very probably men of the other neighbouring Nations, not only Martial men, but Divines, Lawyers, Phy<g ref="char:EOLhyphen"/>ſicians, Aſtrologers, Religious of all Orders, all have been deeply plotting againſt us. And from the mouths of all theſe devouring Beaſts our Witneſſes have deliver'd our Souls. Well then may that be repeated to their praiſe; <hi>A True Witneſs delivereth Souls.</hi>
+            </p>
+            <p>I will add, that in all probability the very Motive and End of the Teſtimony of our Wit<g ref="char:EOLhyphen"/>neſſes was to deliver Souls, not their own, but ours. For, whoſoever will conſider the certain Dangers which theſe Witneſſes underwent by offering ſuch a Diſcovery, and the uncertain Iſſue of making out their Evidence, and with<g ref="char:EOLhyphen"/>ſtanding their Adverſaries, which they could not be ignorant of; muſt needs conclude, that nothing could move theſe men to offer at ſuch a Diſcovery, but either the force of an affrighting
+<pb n="20" facs="tcp:52818:14"/>
+Conſcience, or an invincible love of Truth, or a natural Sympathy and heart-melting Com<g ref="char:EOLhyphen"/>paſſion towards their King, Countrey, Friends and Acquaintance, all ready to be fearfully Maſſacred; or in fine, an irreſiſtible Impulſe from God, who by thus defeating the Plots of Men and Satan, and by making their own Tongues to fall upon them, would ſhew him<g ref="char:EOLhyphen"/>ſelf to be God indeed; a God that loves to ſave and not to deſtroy; a God that can puniſh the Wicked by their own works, and preſerve his own as it pleaſeth him; A God who loves to do good and great things by his own hand, and for his own Names ſake, who exalts his Mercy above all his other Works, who only diſpoſeth of Kings and Kingdoms; whom all Kings and Kingdoms, ours eſpecially, ought to ſerve and fear, to praiſe and magnifie for ever and ever. Let then <hi>Solomons</hi> Proverb be ſpoken in earneſt of our Witneſſes, by way of prophecy and of praiſe; <hi>A true Witneſs delive<g ref="char:EOLhyphen"/>reth Souls: But,</hi> of Romiſh Witneſſes, the other part is no leſs verified, <hi>Maromah, A Deceitful Wit<g ref="char:EOLhyphen"/>neſs ſpeaketh lies.</hi> He will do it on his Death-bed, at the Barr, on the Gallows; and which is more, at the Sacrament. Nay, theſe men were bound by the Sacrament to lye, both in
+<pb n="21" facs="tcp:52818:14"/>
+Life and in Death, and that by a Triple Sacra<g ref="char:EOLhyphen"/>ment, of an <hi>Oath,</hi> of <hi>Confeſſion,</hi> and of the <hi>Eu<g ref="char:EOLhyphen"/>chariſt.</hi> They died like <hi>Judas,</hi> as wickedly, but more politickly. He confeſt, and was aſham'd, and hang'd himſelf. They were aſham'd, and would be hang'd rather than confeſs.</p>
+            <p>I might add, to ſeal the veracity of our Wit<g ref="char:EOLhyphen"/>neſſes; that whereas the <hi>Romiſh</hi> Witneſſes, even packs of them, as that pack of St. <hi>Omers,</hi> and that of <hi>Stafford-ſhire</hi> too, have been overtaken in palpable Lies and Contradictions: yet the minuteſt Criticks of our time, and thoſe not a few, nor a little buſie, have not been able to fix, ſcarce a ſeeming Contradiction, on the Te<g ref="char:EOLhyphen"/>ſtimonies of our Witneſſes; no, not on their longeſt Narratives, which is a ſtrong evidence of their ſincere Veracity. But becauſe perhaps neither their Narratives nor their Teſtimony is yet at an end, I ſhall ſay no more of that, but conclude,</p>
+            <p>Firſt, with a word to theſe Witneſſes. Let them proceed in a faithful Teſtimony, with courage and confidence in the God of Truth, ſpeaking and avowing the Truth for Truths ſake; not to confound their Enemies, (yet the Confuſion of their enemies will juſtly follow;) but let their deſign be to preſerve the Inno<g ref="char:EOLhyphen"/>cent,
+<pb n="22" facs="tcp:52818:15"/>
+to ſerve the Church of God, to ſave their King, and his People, <hi>to Deliver Souls.</hi> Follow<g ref="char:EOLhyphen"/>ing the Example of their Lord and Maſter, that <hi>Hed-emeth,</hi> That Great Witneſs of Truth, whoſe glory is to ſave, and not to deſtroy, and who came to ſave his Enemies, if they would have been ſaved.</p>
+            <p>Secondly, A word to theſe deceitful Witneſſes of <hi>Rome,</hi> and to all Papiſts that are led by their Deceits. O ye <hi>Bar-Jeſuſes!</hi> The Word of God is fulfilled concerning you, which he ſpake by his Servant <hi>Paul,</hi> 2 Tim. 3.13. <hi>Evil men and Seducers ſhall wax worſe and worſe, deceiving and being deceived.</hi> You firſt began to equivocate with God and your own Conſciences, <hi>ſpeaking lies in hypocriſie, having your Conſciences ſeared as with a hot Iron,</hi> 1 Tim. 4.2. Then you proceeded to equivocate with one another, The Pope with the Prieſt, and the Prieſt with the Pope; and the Prieſt with the People, and the People with the Prieſt; deceiving each other with great and glittering words, of <hi>Catholick,</hi> and <hi>In<g ref="char:EOLhyphen"/>fallible,</hi> of <hi>Papal</hi> and <hi>Apoſtolical power,</hi> of almighty <hi>Bulls</hi> and <hi>Briefs,</hi> of <hi>Jubilees, Pardons, Diſpenſa<g ref="char:EOLhyphen"/>tions, Indulgences plenary, ſemiplenary, ſuperplenary,</hi> with all the Market-ſtuff-terms of <hi>Penance, Maſs</hi> and <hi>Purgatory;</hi> and you have deceived
+<pb n="23" facs="tcp:52818:15"/>
+many Nations with theſe your deceitful Lies, poor <hi>England</hi> for many Ages. At laſt you came to that Supremacy of Equivocation, that your very Head and moſt holy Lord, calling him<g ref="char:EOLhyphen"/>ſelf, <hi>The Servant of the Servants of God,</hi> and the moſt humble Servant of Kings, means to ſerve them only as his Vaſſals, to deſtroy them at his pleaſure, and to Curſe all them that ſerve them in a better ſence. And ſee what progreſs you have made in that Service. Firſt, you took upon you to Crown Kings; you ſoon took leave to Cenſure the Kings you Crown'd; then to Excommunicate them, then to Depoſe them, and to raiſe and arm their Subjects againſt them; and this way failing, you take the Crown into your own hand, and give it to what Vaſſal of yours you pleaſe. But all theſe open methods failing, you proceeded to Fraud and Stratagems; but Frauds above ground failing, you went un<g ref="char:EOLhyphen"/>der the Earth as deep as Hell, to blow up King and People with <hi>Powder-mines:</hi> But theſe too failing, you brought the Lake of Fire and Brim<g ref="char:EOLhyphen"/>ſtone on the Earth, and refin'd double and treble all the Arts of Hell, and you laid a Plot which you thought invincible, and that Heaven and Earth could not defeat it. But Heaven has ſhewn its power in <hi>England,</hi> and you are utterly
+<pb n="24" facs="tcp:52818:16"/>
+confounded; and the God of Heaven ſeems now to ſay of you, 2 <hi>Tim.</hi> 3.9. <hi>They ſhall pro<g ref="char:EOLhyphen"/>ceed no further, for their folly ſhall be made mani<g ref="char:EOLhyphen"/>feſt unto all men.</hi>
+            </p>
+            <p>And now, You <hi>Papiſts</hi> of <hi>England,</hi> I hope the Folly, the Deceitfulneſs, the helliſh Cheats, the damnable Principles, the Deviliſh Practices, the Antichriſtian Religion of <hi>Rome</hi> is manifeſt to you all: And that whether you have been concern'd in this Plot or no, yet you will ne<g ref="char:EOLhyphen"/>ver be concern'd with ſuch Teachers more, to be led by their Deceits; nor continue Mem<g ref="char:EOLhyphen"/>bers of ſo helliſh a Body, under the influence of ſo deviliſh a Head.</p>
+            <p>Now we, for whom God has done ſuch won<g ref="char:EOLhyphen"/>derfull things, what manner of perſons ought we to be? How ought we to love, to ſerve, to praiſe, to fear, to obey, to follow to death, our God and Lord Chriſt Jeſus! who is the true and faithful Witneſs, who delivereth our Souls from Death, who has ſo often and ſo wonderfully de<g ref="char:EOLhyphen"/>liver'd this Kingdom, and I believe will deliver it from all its enemies, eſpecially the Enemies of his Goſpel, and has promiſed to do great things for us, and ſeems to provoke us to love, even while we provoke him to Anger. That he may make us fit to receive his Favours to the end,</p>
+            <div type="prayer">
+               <pb n="25" facs="tcp:52818:16"/>
+               <head>Let us pray.</head>
+               <p>
+                  <hi>O</hi> God, who gaveſt the Son of thy Love to the World, to be <hi>the Witneſs of Truth,</hi> that by the power of his Grace, and by the light of his Goſpel, all men might be deliver'd from Darkneſs and eternal Death: But men receiving not the Truth in love, thou didſt ſend them ſtrong deluſion to be<g ref="char:EOLhyphen"/>lieve the lies of Antichriſt <hi>the deceitful Witneſs.</hi> But in great and tender Mercy thou deliveredſt this Nation from that Deluſion, and haſt by late and mi<g ref="char:EOLhyphen"/>raculous Providence deliver'd our King and People from the horrid Plots of <hi>that Man of Deceit:</hi> O let the Glory of thy Truth ſtill ſhine upon us, and be thou our God, and we thy People, and let <hi>the Great Witneſs of Truth</hi> ſeal this Mercy for ever. And let every faithful Soul ſay, <hi>Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb n="26" facs="tcp:52818:17"/>
+            <head>Books ſold by <hi>Benj. Billingſley</hi> at the Printing-preſs in <hi>Cornhill.</hi>
+            </head>
+            <p>CHriſtian Religions Appeal from the Groundleſs Prejudices of the Sceptick to the Barr of Com<g ref="char:EOLhyphen"/>mon Reaſon: Wherein is proved, That,</p>
+            <p n="1">1. The Apoſtles did not delude the World.</p>
+            <p n="2">2. Nor were themſelves deluded.</p>
+            <p n="3">3. That Scripture matters of fact have the beſt Evi<g ref="char:EOLhyphen"/>dence.</p>
+            <p n="4">4. The Divinity of Scripture is as demonſtrable as the Being of a Deity. By <hi>John Smith</hi> Rector of St. <hi>Mary</hi>'s in <hi>Colcheſter. Fol.</hi> Price 12. <hi>s.</hi>
+            </p>
+            <p>Of <hi>Baptiſm</hi> and the <hi>Lords Supper:</hi> Two ſhort Diſ<g ref="char:EOLhyphen"/>courſes, opening the Nature, Deſign and Ends of thoſe two great Goſpel Ordinances, and teaching the Holy uſe and Improvement of them. 12<hi rend="sup">o</hi>. Price 6 <hi>d.</hi>
+            </p>
+            <p>A Sermon Preached before the Lord Maior and Court of Aldermen of the City of <hi>London,</hi> at <hi>Guild-hall</hi> Chappel, <hi>Auguſt</hi> 18. 1678. By <hi>Robert Neville,</hi> B. D. Rector of <hi>Anſly</hi> in <hi>Hertford-ſhire.</hi> 4<hi rend="sup">o</hi>. Price 6 <hi>d.</hi>
+            </p>
+            <p>The Neceſſity of Receiving the Holy Sacrament, that great Teſt both of the Chriſtian and Proteſtant Religion: Declared in a Sermon at a Conference of the ſeveral Miniſters of the Deanry of <hi>Braughin</hi> in the County of <hi>Hertford;</hi> appointed by the Right Re<g ref="char:EOLhyphen"/>verend Father in God <hi>Henry</hi> Lord Biſhop of <hi>London,</hi> to be held at <hi>Ware, Auguſt</hi> 28. 1678. By <hi>R. Neville</hi> Rector of <hi>Anſly.</hi> 4<hi rend="sup">o</hi>. Price 6 <hi>d.</hi>
+            </p>
+            <pb facs="tcp:52818:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
